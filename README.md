@@ -4,7 +4,7 @@
 
 ![Profil Fotoğrafı](https://avatars.githubusercontent.com/u/your-avatar-id?v=4)
 
-### Yazılım Geliştirici | Teknoloji Meraklısı | Problem Çözücü
+### Yazılım Geliştirici
 
 </div>
 
